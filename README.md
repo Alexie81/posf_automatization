@@ -1,2 +1,2 @@
-# posf_automatization
+# ANRE - POSF
 Aplicatie Automatizare POSF
